@@ -1,15 +1,9 @@
 # Table of contents
 * [Wilkommen](README.md)
 
-## Allgemein
-* [Mein Benutzer](Allgemein/benutzer.md)
-* [Bestellungen und Transaktionen](Allgemein/bestellungen.md)
-
 ## Rootserver
 * [Linux Grundlagen](rootserver/linux-grundlagen.md)
-* [VNC Konsole Server Neustart](rootserver/server-not-aus.md)
 * [SSH Grundlagen](rootserver/ssh-grundlagen.md)
-* [Mit (S)FTP auf Rootserver verbinden](rootserver/sftp-verbinden.md)
 * [Screen](rootserver/screen.md)
 * [PhpMyAdmin 8.2 Installation](rootserver/phpmyadmin-PHP-8-installation.md)
 * [PhpMyAdmin 7.4 Installation](rootserver/phpmyadmin-PHP-7-installation.md)
@@ -23,7 +17,6 @@
 * [Minecraft auto Start](rootserver/minecraft-auto-start.md)
 * [Minecraft Server auf Debian 11 installieren](rootserver/minecraft-server-debian-11-installieren.md)
 * [Minecraft Server mit unterschiedlichen Java Versionen starten](rootserver/bestimmte-java-version.md)
-* [One-Click Gameserver Installation](rootserver/one-click-gameserver-installer.md)
 * [Virtualhost Apache2](rootserver/virtualhost-apache2.md)
 * [Virtualhost Redirection Apache2](rootserver/virtualhost-redirect-apache2.md)
 * [MongoDB installieren](rootserver/mongodb-installieren.md)
@@ -36,6 +29,5 @@
 
 
 ## Sonstiges
-* [Public API](https://mc-host24.github.io/api-documentation/#/)
-* [Discord](https://discord.mc-host24.de)
-* [Teamspeak Server](ts3server://ts.mc-host24.de)
+* [Discord](https://auroa.cloud/dc.html)
+* [Teamspeak Server](ts3server://ts.auroa.cloud)
