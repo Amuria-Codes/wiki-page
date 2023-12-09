@@ -12,7 +12,7 @@
 * [Java 8 installation](rootserver/java-8-setup.md)
 * [Java 11 installation](rootserver/java-11-setup.md)
 * [Java 17 installation](rootserver/java-17-setup.md)
-* [Teamspeak³ Server](rootserver/teamspeak3-server.md)
+* [Teamspeak³ Server](rootserver/teamspeak-3-server.md)
 * [Sinusbot Installer](rootserver/sinusbot-install.md)
 * [Minecraft auto Start](rootserver/minecraft-auto-start.md)
 * [Minecraft Server auf Debian 11 installieren](rootserver/minecraft-server-debian-11-installieren.md)
